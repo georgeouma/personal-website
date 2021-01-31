@@ -1,2 +1,2 @@
-# personal-website
-Simple personal website based on react gatsbyjs to showcase my profile and portfolio
+# Try GatsbyJs
+Simple website based on react gatsbyjs to showcase for developer profile
